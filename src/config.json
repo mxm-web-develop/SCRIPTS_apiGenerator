@@ -1,0 +1,9 @@
+{
+  "output":"../apis",
+  "docs":[
+    {
+      "url":"http://10.64.15.17:2227/author/v3/api-docs",
+      "name":"AuthorApis"
+    }
+  ]
+}
